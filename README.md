@@ -1,2 +1,2 @@
 # Capstone-Project
-This is an end to end mlops capstone pipline.
+This is an end to end mlops capstone project pipline.
